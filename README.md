@@ -3,7 +3,7 @@
 Meu nome é João Pedro Santos
 
 - Sou um estudante de Ensino Médio
-- Estou me desenvolvendo na linguagem JavaScript a partir do Alura
+- Estou me desenvolvendo em linguagem de programação a partir do Alura
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você pode entrar em contato comigo ☎
