@@ -8,7 +8,7 @@ Meu nome é João Pedro Santos
 
 ### Você pode entrar em contato comigo ☎
 
-00001139041885sp@al.educacao.sp.gov.br
+joaop.araujo29@gmail.com
 
 @juao.bobao
 
