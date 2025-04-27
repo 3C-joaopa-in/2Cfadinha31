@@ -12,4 +12,4 @@ joaop.araujo29@gmail.com
 
 @juao.bobao
 
-![]([https://media1.tenor.com/m/t-J79EIGaq0AAAAC/xsdf.gif](https://tenor.com/pt/view/test-gif-1219972911190129225))
+![](https://media1.tenor.com/m/t-J79EIGaq0AAAAC/xsdf.gif](https://tenor.com/pt/view/test-gif-1219972911190129225)
